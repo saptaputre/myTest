@@ -1,0 +1,9 @@
+C:\development\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+C:\development\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\development\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+C:\development\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb
+D:\SingletonPattern\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+D:\SingletonPattern\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb
+D:\SingletonPattern\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+D:\SingletonPattern\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+D:\SingletonPattern\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
